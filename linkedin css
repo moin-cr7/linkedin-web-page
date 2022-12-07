@@ -1,0 +1,169 @@
+body{
+    margin: 0;
+}
+.whole{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+}
+.navbar img{
+    height: 80px;
+    width: 160px;
+    position: relative;
+    bottom: 2px;
+    right: 8px;
+
+}
+.navbar li{
+    display:inline-block;
+    align-items: center;
+
+    
+}
+.navbar a{
+    text-decoration: none;
+    margin: 0px 5px;
+    font-size: 15px;
+    font-weight: 50;
+    color: rgb(99, 99, 99);
+}
+.navbar #bold{
+    font-size: 18px;
+    font-weight: 100;
+    margin: 0 10px 0 0;
+    position: relative;
+    bottom: 10px;
+}
+
+.navbar button{
+    color:rgb(36, 74, 180) ;
+    border:2px solid rgb(36, 74, 180);
+    padding: 15px 28px;
+    border-radius: 30px;
+    font-weight: bolder;
+    position: relative;
+    bottom: 10px;
+    margin-left: 5px;
+    
+}
+.rest {
+    display:flex;
+    justify-content: space-between;
+    padding-top: 40px;
+
+}
+.rest img{
+    height: 700px;
+    width: 700px;
+    position:relative;
+    bottom: 80px;
+    left: 10px;
+}
+.form{
+    margin-top: 20px;
+padding-left: 200px;
+color:#8f5849;
+position:relative;
+    bottom: 30px;
+    right: 20px;
+}
+.form p{
+    display: inline;
+    font-size: 55px;
+    font-weight: 200;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;;
+}
+.inpt1{
+    height: 25px;
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.inpt2{
+    height: 25px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.form a{
+    text-decoration: none;
+    font-size: 200;
+    font-weight: 400;
+    color: black;
+    
+}
+.but1{
+    background-color: #2977c9;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 20px 0px;
+    border: 0;
+}
+.but2{
+    background-color: white;
+    color: rgb(105, 105, 105);
+    font-size: 20px;
+    height: 60px;
+    width: 400px;
+    border: 1 solid black;
+    border-radius: 30px;
+    margin: 20px 0px;
+    padding: 5px;
+
+}
+.but1:hover{
+    background-color: #0073b1;
+}
+.but2:hover{
+    border: 3px solid black;
+}
+#compass{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left:45px;
+    bottom: 20px;
+    margin: 0;
+}
+#people{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left:40px;
+    bottom: 20px;
+    margin: 0;
+}
+#learning{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left:45px;
+    bottom: 20px;
+    margin: 0;
+}
+#jobs{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left:35px;
+    bottom: 20px;
+    margin: 0;
+}
+
+#line{
+  height: 40px;
+  width: 10px;
+  position: relative;
+  top: 10px;
+  margin: 0px 20px;
+}
+
+
