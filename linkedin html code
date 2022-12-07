@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linked</title>
+    <link rel="stylesheet" href="linkedin.css">
+    <script src="https://kit.fontawesome.com/68a6a7bf69.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section class="whole">
+        <section class="navbar">
+            <div class="logo">
+                <a href=""><img src="linkedinlogo.png" alt=""></a>
+            </div>
+            <div class="links1">
+                <ul>
+                    <img src="compass_13587.png" alt="" id="compass">
+                    <li><a href="">Discover</a></li>
+                    <img src="two-men_icon-icons.com_72501.png" alt="" id="people">
+                    <li><a href="">People</a></li>
+                    <img src="learning.png" alt="" id="learning" id="learning">
+                    <li><a href="">Learning</a></li>
+                    <img src="jobs.png" alt="" id="jobs">
+                    <li><a href="">Jobs</a></li>
+                    <li><img src="line.png" alt="" id="line"></li>
+                    <li><a href="" id="bold">Join now</a></li>
+                    <li><button>Sign in</button></li>
+
+                </ul>
+            </div>
+        </section>
+        <section class="rest">
+            <div class="form">
+                <p>Welcome to your <br> professional community</p><br>
+                <input type="text" placeholder="Email or phone number" class="inpt1"><br>
+                <input type="text" placeholder="Password" class="inpt2"><br>
+                <a href="">Forget password?</a><br>
+                <button class="but1">Sign In</button><br>
+                <hr>
+                <button class="but2">Sign in with google</button>
+            </div>
+            <div class="photo">
+                <img src="https://static-exp1.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4" alt="">
+            </div>
+        </section>
+    </section>
+</body>
+
+</html>
